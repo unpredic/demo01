@@ -1,4 +1,4 @@
-hello git! A
+hello git! AB
 hello git!
 hot-fix git
-hot-fixA git
+hot-fixAB git
