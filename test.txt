@@ -1,3 +1,4 @@
-hello git!
+hello git! A
 hello git!
 hot-fix git
+hot-fixA git
